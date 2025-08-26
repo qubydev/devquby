@@ -1,0 +1,39 @@
+.hero {
+    display: flex;
+    padding: 4rem 0;
+    text-align: center;
+    align-items: center;
+    vertical-align: center;
+    position: relative;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    padding-bottom: 1rem;
+}
+
+.getStartedButton {
+    margin-right: 0.6rem;
+}
+
+.githubIcon {
+    vertical-align: middle;
+    height: 2rem;
+    width: 2rem;
+}
+
+.githubButtonText {
+    vertical-align: middle;
+}
+
+.logo {
+    height: auto;
+    width: 100%;
+    max-width: 20rem;
+    border-radius: 1rem;
+}
+
+.description {
+    font-weight: 600;
+    opacity: .9;
+}
