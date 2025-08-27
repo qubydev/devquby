@@ -2,46 +2,81 @@
 sidebar_position: 1
 ---
 
-# Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+You might be wondering: **“Why another tutorial website? Aren’t there enough already?”**  
+Fair question. We live in an era of **information overload**—there’s no shortage of tutorials, videos, and guides out there.
 
-## Getting Started
+So, what makes **DevQuby** different?
 
-Get started by **creating a new site**.
+---
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## What DevQuby Is About
 
-### What you'll need
+Our goal isn’t to just give you tutorials or snippets of code. **DevQuby is about building the mindset of an engineer.**  
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+We want you to learn how to:  
+- **Think critically**  
+- **Plan effective solutions**  
+- **Leverage online resources to solve real problems**  
 
-## Generate a new site
+You won’t find step-by-step “how to build a tic-tac-toe app” guides here. Instead, you’ll learn how to **design the system**, **plan the architecture**, and **find the resources you need to build it yourself**.  
 
-Generate a new Docusaurus site using the **classic template**.
+This approach applies whether you want to:  
+- Work on real projects  
+- Start freelancing  
+- Find internships or jobs  
+- Build your own SaaS product  
 
-The classic template will automatically be added to your project after you run the command:
+## Why Focus on “Thinking Like an Engineer”?
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+Because this mindset changes everything. Here’s why:
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+### 1. **Completely Free**
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+Programming education has become a huge industry. Many good courses are expensive—and not everyone can afford them.  
 
-## Start your site
+**The truth?** You don’t need to spend a single cent to become a great developer today. What you need is the ability to **learn effectively** and **find the right resources**. That’s what DevQuby is here to teach.
 
-Run the development server:
+### 2. **Future-Proof Skills**
 
-```bash
-cd my-website
-npm run start
-```
+Technology changes fast. A framework that’s hot today might be obsolete in two years.  
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+By learning how to **think and adapt like an engineer**, you’ll be able to pick up any new technology with confidence.
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+### 3. **A Problem-Solving Mindset**
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Instead of depending on tutorials for every challenge, you’ll learn to:  
+- **Analyze problems**  
+- **Design solutions**  
+- **Implement them independently**  
+
+This is one of the most valuable skills in the real world.
+
+### 4. **The Career Reality**
+
+Here’s a hard truth: **Your degree alone will not prepare you for real-world jobs.**  
+
+Think about it—every year, **hundreds of thousands of students graduate in Computer Science and related fields**, yet only a fraction land good jobs. Why?  
+
+It’s not because the rest didn’t study. Most of them worked hard. The real issues are:  
+
+- **Degrees teach theory, not practice.** You learn algorithms, but rarely how to apply them in real projects.  
+- **Problem-solving isn’t taught.** Companies want engineers who can tackle new, unknown problems.  
+- **Curriculums lag behind industry.** University syllabuses are often 5–10 years outdated compared to what the market needs.  
+
+The truth is, **your ability to think like an engineer—to plan, analyze, and adapt—is far more valuable than memorizing theory.**  
+
+DevQuby is here to help you build that mindset. When you do, you won’t just aim for a job—you’ll make yourself future-proof.
+
+### 5. **Build Anything You Imagine**
+
+Once you master planning, design, and problem-solving, you’re free.  
+You’re no longer limited by tutorials. You can take any idea—an app, a SaaS product, a side project—and bring it to life.
+
+## The Mission
+
+**Our mission is simple:**  
+To help you become the kind of software engineer who doesn’t panic when faced with a new challenge—but embraces it with confidence.  
+
+Let’s rebuild your mindset.

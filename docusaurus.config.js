@@ -91,7 +91,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Library',
+            label: "Library"
           },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
@@ -102,6 +102,11 @@ const config = {
         ],
       },
       footer: {
+        logo: {
+          alt: 'Logo',
+          src: '/img/logo.svg',
+          width: 80
+        },
         style: 'dark',
         links: [
           {
@@ -144,7 +149,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Built with 💖 by Docusaurus.`,
+        copyright: `Built with 💖 by Quby.`,
       },
       prism: {
         theme: prismThemes.github,
