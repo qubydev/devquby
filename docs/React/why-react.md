@@ -1,5 +1,6 @@
 ---
 title: Why React?
+sidebar_position: 2
 ---
 
 # What is React?
