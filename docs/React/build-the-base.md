@@ -1,9 +1,9 @@
 ---
-title: Introduction
+title: Build the Base
 sidebar_position: 1
 ---
 
-# Introduction
+# Build the Base
 
 :::warning
 Before you get started with learning React, I would like to warn you that React requires some important pre-existing knowledge of JavaScript, along with HTML, to understand it properly.
